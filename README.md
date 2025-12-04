@@ -7,14 +7,18 @@ El directorio con las mejores paginas de Inteligencia Artificial es curado por [
 
 
 ## SPONSOR:
-El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es).
+El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es/?ref=github) y [Aprende Vibe Coding](https://aprendevibecoding.com/?ref=github).
 
-[aiselfi.es](https://aiselfi.es) es una app que convierte tus selfies en fotos profesionales. 
+- [aiselfi.es](https://aiselfi.es/?ref=github) es una app que convierte tus selfies en fotos profesionales. 
+- [Aprende Vibe Coding](https://aprendevibecoding.com/?ref=github): De cero a tu primer producto con IA, en horas.
 
 ## Listado de Herramientas IA:
 
 - [aiselfi.es](https://aiselfi.es): convierte selfies en fotos profesionales.
 - [HeyGen](https://heygen.com/?sid=rewardful&via=appsia): Crea videos personalizados con IA usando avatares realistas.
+- [Flora AI](https://dub.florafauna.ai/queia?ref=queia.es): Una plataforma creativa todo-en-uno que integra generación de texto, imágenes y video con inteligencia artificial.
+- [Klap](https://klap.app/?via=queia-es): transforma videos en clips virales.
+- [Lovable](https://lovable.dev/?via=queiaes): De idea a app en segundos, con tu desarrollador full stack personal.
 - [Clarity](https://clarityai.co/?via=webaleatoria): Mejora imágenes con IA, aumentando su resolución y añadiendo detalles ajustables según tus preferencias.
 - [Leonardo](https://leonardo.ai): Generá imágenes con IA de calidad profesional para arte, diseño y videojuegos.
 - [Midjourney](https://midjourney.com): Explorá la creatividad visual con un generador de imágenes basado en texto.
