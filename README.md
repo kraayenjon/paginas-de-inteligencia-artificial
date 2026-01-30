@@ -3,7 +3,7 @@
 Este repositorio recopila las mejores páginas y apps de inteligencia artificial. En este directorio encontrarás herramientas útiles para crear texto, generar imágenes, automatizar tareas y mucho más.  Nuestro objetivo es facilitar el acceso a las mejores páginas de IA en un solo lugar, organizado y actualizado constantemente. 
 
 
-El directorio con las mejores paginas de Inteligencia Artificial es curado por [@kraayenjon](https://github.com/kraayenjon)
+El directorio con las mejores paginas de Inteligencia Artificial es curado por [Jon Kraayenbrink](https://www.linkedin.com/in/jonathan-kraayenbrink/).
 
 
 ## SPONSORS:
