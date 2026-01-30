@@ -6,10 +6,11 @@ Este repositorio recopila las mejores páginas y apps de inteligencia artificial
 El directorio con las mejores paginas de Inteligencia Artificial es curado por [@kraayenjon](https://github.com/kraayenjon)
 
 
-## SPONSOR:
-El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es/?ref=github) y [Aprende Vibe Coding](https://aprendevibecoding.com/?ref=github).
+## SPONSORS:
+El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es/?ref=github), [don Prompt](https://donprompt.com/?ref=github) y [Aprende Vibe Coding](https://aprendevibecoding.com/?ref=github).
 
 - [aiselfi.es](https://aiselfi.es/?ref=github) es una app que convierte tus selfies en fotos profesionales. 
+- [Don Prompt](https://donprompt.com/?ref=github): Todos los recursos de IA que necesitas para crecer tu negocio.
 - [Aprende Vibe Coding](https://aprendevibecoding.com/?ref=github): De cero a tu primer producto con IA, en horas.
 
 ## Listado de Herramientas IA:
