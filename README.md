@@ -144,6 +144,7 @@ Todas las herramientas de esta categoría en [audio](https://queia.es/categorias
 | [Otter.ai](https://otter.ai) | Transcribe reuniones, entrevistas y clases en tiempo real con IA. | — |
 | [Kaptex](https://kaptex.io/) | Extensión de Chrome con panel lateral que guarda URLs, vídeos y conversaciones de IA directamente en NotebookLM. | — |
 | [Don Prompt](https://donprompt.com/) | Sistemas de IA listos para crear contenido, conseguir clientes y ejecutar tu negocio. | — |
+| [Pocket Invoice](https://www.freedominvoice.com/) | Servidor MCP gratuito para gestionar facturas, presupuestos y PDF desde asistentes de IA, tras conectar y autorizar el acceso. Incluye una app de facturación gratuita para Web, iOS y Android. | Gratis |
 
 Hay 21 herramientas de productividad en total: [ver categoría completa](https://queia.es/categorias/productividad).
 
