@@ -127,6 +127,7 @@ Hay 22 herramientas de video en total: [ver categoría completa](https://queia.e
 | [Suno](https://www.suno.ai) | Crea canciones originales con letra y melodía en segundos, en cualquier género, sin conocimientos musicales. | — |
 | [Murf.ai](https://murf.ai) | Voces profesionales con IA para vídeos, podcasts y presentaciones en múltiples idiomas. | — |
 | [Amper Music](https://www.ampermusic.com/) | Composición musical con IA: crea música original libre de derechos. | — |
+| [VoceText](https://vocetext.com/es/) | Transcribe audio y vídeo a texto, Word (DOCX) y subtítulos SRT/VTT en el navegador, sin registro ni marca de agua. | Freemium |
 
 Todas las herramientas de esta categoría en [audio](https://queia.es/categorias/audio).
 
